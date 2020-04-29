@@ -1,7 +1,7 @@
 var resumeData = {
     'about' :{
-        name : 'Kartik Maurya',
-        email : 'mauryakartik@gmail.com',
+        name : 'colonel raghavendra nath maurya',
+        email : 'raghavnath301161@gmail.com',
         designation : 'Software Engineer',
         currentCity : 'Bengaluru, India',
         resumeLink: 'https://9kartik.github.io/resume',
